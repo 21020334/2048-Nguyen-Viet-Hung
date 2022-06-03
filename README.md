@@ -14,6 +14,7 @@
 - Tên trò chơi: 2048
 - Mô tả: 2048 là một trò chơi giải đố do tác giả Gabriele Cirulli, một lập trình viên web trẻ 19 tuổi người Ý, tạo ra vào tháng 3 năm 2014. Mục tiêu của trò chơi là trượt các khối vuông có mang số trên một lưới vuông để kết hợp chúng lại và tạo ra khối vuông có giá trị 2048.
 - Trò chơi kết thúc khi người chơi tạo ra ô vuông chứa giá trị 2048 hoặc khi hết đường đi cho các ô vuông.
+- Link video demo: https://youtu.be/pHlMZC9AVz0 
 # Các chức năng:
 - Chọn kích cỡ ô vuông lớn muốn chơi (ví dụ: 3x3, 4x4, v.v)
 - Tính điểm, có thể undo nước đi nếu muốn.
